@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+  }
+  
+  #header {
+    border: 1px solid black;
+    position: fixed;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    align-items: center;
+    padding-top: 35px;
+  }
+  
+  #header-img {
+    position: fixed;
+    height: 75px;
+    left: 1px;
+    top: 1px;
+  }
+  
+  .nav-link {
+    border: 1px solid black;
+    
+  }
+  
+  #form {
+    position: absolute;
+    top: 700px;
+  }
+  
+  video {
+    position: absolute;
+    top: 200px;
+  }
+  
+  @media (max-width: 700px) {
+    
+  }
